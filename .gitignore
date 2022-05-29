@@ -1,0 +1,6 @@
+venv/*
+img/*
+._*
+.ipynb_checkpoints/*
+html/*
+__pycache__/*

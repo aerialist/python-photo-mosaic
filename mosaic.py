@@ -6,7 +6,8 @@ import sys
 import numpy as np
 from PIL import Image
 from skimage import img_as_float
-from skimage.measure import compare_mse
+#from skimage.measure import compare_mse
+from skimage.metrics import mean_squared_error as compare_mse
 
 def shuffle_first_items(lst, i):
     if not i:

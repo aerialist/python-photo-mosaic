@@ -1,3 +1,15 @@
+# aerialist
+
+source venv/bin/activate
+jupyter-lab
+
+## installed
+
+jupyterlab
+beautifulsoup4
+requests
+scikit-image
+
 # mosaic
 
 This utility can be used to generate [photo-mosaic](http://en.wikipedia.org/wiki/Photographic_mosaic) images. There are several mosaic libraries.
